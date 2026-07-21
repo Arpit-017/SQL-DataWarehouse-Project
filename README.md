@@ -1,2 +1,47 @@
-# SQL-DataWarehouse-Project
-Modern SQL Server data warehouse with ETL pipelines, dimensional modeling, and analytics.
+# Data Warehouse and Analytics Project
+
+Welcome to the **Data Warehouse and Analytics Project** repository.
+
+This project delivers an end-to-end data warehousing and analytics solution, covering everything from building a modern data warehouse to producing actionable business insights. It is designed as a portfolio project that reflects industry-standard practices in data engineering and analytics.
+
+---
+
+## 🚀 Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+#### Specifications
+- **Data Sources**: Import data from two source systems (ERP and CRM), provided as CSV files.
+- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
+- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- **Scope**: Focus on the latest dataset only; historization of data is not required.
+- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+
+### BI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 👋 About Me
+
+Hi there! I'm **Arpit**. Thanks for checking out this project — feel free to explore the repository, raise issues, or reach out if you'd like to connect or collaborate.
+
+**LinkedIn** - www.linkedin.com/in/arpit-patra-5b6180338
